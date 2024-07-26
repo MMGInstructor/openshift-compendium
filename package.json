@@ -13,7 +13,7 @@
     "build": "gatsby build",
     "clean": "gatsby clean",
     "dev": "gatsby develop",
-    "start": "gatsby serve"
+    "start": "gatsby serve -H 0.0.0.0"
   },
   "dependencies": {
     "frontmatter-date-setter": "^0.1.0",
